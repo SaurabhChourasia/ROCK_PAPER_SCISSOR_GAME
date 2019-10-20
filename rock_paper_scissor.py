@@ -4,6 +4,7 @@ import os
 def main():
     os.system('cls' if os.name=='nt' else 'clear')
     print("WELCOME TO ROCK PAPER AND SCISSOR GAME\n")
+    print("The Game has following rules\n")
     print("****************RULES*******************\n")
     print("Paper vs Rock -> ROCK WINS\n")
     print("Paper vs Scissors-> SCISSORS WINS\n")
