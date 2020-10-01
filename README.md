@@ -1,4 +1,4 @@
-# ROCK_PAPER_SCISSOR_GAME
+# ROCK PAPER SCISSOR GAME
 
 ## FEATURES
 It is a simple game implemented in Python
