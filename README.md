@@ -20,5 +20,6 @@ Enter the repository:
 Run the game:
 
 ` python rock_paper_scissor.py `
+>> i have done this project and done it right 
 
 >your contribution would be appreciated
